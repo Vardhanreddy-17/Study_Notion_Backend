@@ -1,0 +1,11 @@
+npm init -y
+Npm I express
+npm i nodemon
+npm i dotenvn
+npm i bcrypt
+npm i otp-generator
+npm i nodemailer
+npm i jsonwebtoken
+npm i cookie-parser
+npm i mongoose
+npm i cloudinary
